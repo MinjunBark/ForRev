@@ -48,25 +48,37 @@ The application consists of a React-based frontend (forrev-ui) and a backend API
 
 ## Screenshots
 
-### Events Dashboard
-![Events Dashboard](screenshots/dashboard.png)
-*Main dashboard showing all events in a grid layout with event cards displaying titles, dates, locations, and attendees*
-
-### Create Event Modal
-![Create Event](screenshots/create-event.png)
-*Modal interface for creating new events with fields for title, description, location, and date/time selection*
-
-### Event Details
-![Event Details](screenshots/event-details.png)
-*Detailed view of an event showing all information including start/end times, location, creator, and action buttons for editing or deleting*
-
 ### Sign In Page
-![Sign In](screenshots/signin.png)
+![Sign In](https://github.com/MinjunBark/ForRev/blob/master/ForRev%20screenshots/Screenshot%202025-11-13%20at%2012.24.55%E2%80%AFPM.png)
 *Clean authentication page with username and password fields*
 
 ### Sign Up Page
-![Sign Up](screenshots/signup.png)
+![Sign Up](https://github.com/MinjunBark/ForRev/blob/master/ForRev%20screenshots/Screenshot%202025-11-13%20at%2012.25.05%E2%80%AFPM.png)
 *User registration page with username, email, and password fields*
+
+### Events Dashboard
+![Events Dashboard](https://github.com/MinjunBark/ForRev/blob/master/ForRev%20screenshots/Screenshot%202%20(Updated%20endpoints%20%2B%20features)/dashboard.png)
+*Main dashboard showing all events in a grid layout with event cards displaying titles, dates, locations, and attendees*
+
+### Create Event Modal
+![Create Event](https://github.com/MinjunBark/ForRev/blob/master/ForRev%20screenshots/Screenshot%202025-11-13%20at%204.22.56%E2%80%AFPM.png)
+*Modal interface for creating new events with fields for title, description, location, and date/time selection*
+
+### Update Event Modal
+![Update Event](https://github.com/MinjunBark/ForRev/blob/master/ForRev%20screenshots/Screenshot%202025-11-13%20at%204.23.53%E2%80%AFPM.png)
+
+### Event Details
+![Event Details](https://github.com/MinjunBark/ForRev/blob/master/ForRev%20screenshots/Screenshot%202025-11-13%20at%204.23.41%E2%80%AFPM.png)
+*Detailed view of an event showing all information including start/end times, location, creator, and action buttons for editing or deleting*
+
+### Profile Navigation
+![Profile Navigation](https://github.com/MinjunBark/ForRev/blob/master/ForRev%20screenshots/Screenshot%202%20(Updated%20endpoints%20%2B%20features)/profile%20nav.png)
+*User profile / Logout 
+
+### Profile Dashboard
+![Profile Dashboard](https://github.com/MinjunBark/ForRev/blob/master/ForRev%20screenshots/Screenshot%202%20(Updated%20endpoints%20%2B%20features)/Profile%20dashboard.png)
+*Personal dashboard showing all events + invited events 
+
 
 ## Technology Stack
 
